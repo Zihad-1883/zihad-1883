@@ -72,10 +72,7 @@ Hi there! I'm **Mizbaur Rahman Zihad**, a passionate **Full Stack Developer** ba
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zihad-1883&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad-1883&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zihad-1883&theme=tokyonight&hide_border=true" width="60%" />
