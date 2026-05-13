@@ -22,6 +22,8 @@
 
 Hi there! I'm **Mizbaur Rahman Zihad**, a passionate **Full Stack Developer** based in **Sylhet, Bangladesh**. I love building modern, user-friendly web applications with clean code and great user experiences. I'm always eager to learn new technologies and improve my craft.
 
+Portfolio : https://portfolio-one-eta-y6gdjq846m.vercel.app/
+
 - 🌍 Based in **Sylhet, Bangladesh**
 - 📧 Reach me at **zihad.pilot18@gmail.com**
 - 🎓 Currently exploring **Backend and Database managment**
